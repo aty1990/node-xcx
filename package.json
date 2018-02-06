@@ -1,0 +1,19 @@
+{
+    "name": "getcode",
+    "version": "1.0.0",
+    "description": "",
+    "main": "config.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "aty",
+    "license": "ISC",
+    "devDependencies": {
+        "request": "^2.83.0"
+    },
+    "dependencies": {
+        "ejs": "^2.5.7",
+        "express": "^4.16.2",
+        "path": "^0.12.7"
+    }
+}
