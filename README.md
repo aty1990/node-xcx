@@ -19,3 +19,16 @@ ____
 
 
 [我的博客](http://aty1990.top) 
+
+
+* 昵称：aline
+  * 前端
+
+>数据结构  
+>>树  
+>>>二叉树  
+>>>>平衡二叉树  
+>>>>>满二叉树  
+
+##### 小程序二维码
+![aline](https://github.com/aty1990/node-xcx/blob/master/public/images/index1.png "aty扶苏公子小程序")  
